@@ -1,1 +1,2 @@
 rabbitmq:3.13.6-management-alpine registry.cn-hangzhou.aliyuncs.com/lanni-mirror/rabbitmq:3.13.6-management-alpine
+mysql:8.4.2 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/mysql:8.4.2
