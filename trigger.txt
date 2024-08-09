@@ -3,3 +3,4 @@ mysql:8.4.2 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/mysql:8.4.2
 elasticsearch:7.5.0 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/elasticsearch:7.5.0
 busybox registry.cn-hangzhou.aliyuncs.com/lanni-mirror/busybox
 debian:12.6 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/debian:12.6
+nginx:1.27 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/nginx:1.27
