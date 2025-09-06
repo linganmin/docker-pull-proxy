@@ -6,4 +6,4 @@ debian:12.6 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/debian:12.6
 nginx:1.27 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/nginx:1.27
 node:22 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/node:22
 canal/canal-server:v1.1.8 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/canal-server:v1.1.8
-ghcr.io/open-webui/open-webui:0.6.22 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/open-webui:0.6.22
+ghcr.io/open-webui/open-webui:0.6.22 registry.cn-hangzhou.aliyuncs.com/lanni-mirror/open-webui:0.6.26
